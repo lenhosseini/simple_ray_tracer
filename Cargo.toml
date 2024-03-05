@@ -1,0 +1,11 @@
+[package]
+name = "simple_ray_tracer"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.80"
+derive_more = "0.99.17"
+image = "0.24.9"
+indicatif = "0.17.8"
+rand = "0.8.5"

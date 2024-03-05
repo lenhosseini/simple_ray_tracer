@@ -1,0 +1,5 @@
+/target
+
+*.png
+!showcase.png
+.DS_Store
